@@ -1,0 +1,6 @@
+﻿  sw.cpp
+C:\Users\정찬호\source\repos\ChangeEntryPointToFLFuncionRelease\ChangeEntryPointToFLFuncionRelease\sw.cpp(31,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\ChangeEntryPointToFLFuncionRelease\ChangeEntryPointToFLFuncionRelease\sw.cpp(327,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\ChangeEntryPointToFLFuncionRelease\ChangeEntryPointToFLFuncionRelease\sw.cpp(333,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\ChangeEntryPointToFLFuncionRelease\ChangeEntryPointToFLFuncionRelease\sw.cpp(376,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ChangeEntryPointToFLFuncionRelease.vcxproj -> C:\Users\정찬호\source\repos\ChangeEntryPointToFLFuncionRelease\Debug\ChangeEntryPointToFLFuncionRelease.exe
